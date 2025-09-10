@@ -44,6 +44,7 @@ This project allows the contract owner to issue unique certificates as NFTs and 
 4. Use the following functions in Remix:
    - `issueCertificate()` → to mint a certificate.
    - `verifyCertificate()` → to verify certificate ownership.
+5.Netlify Deployed link:https://68c16a1f35445f05be16fb69--timely-seahorse-9b8bea.netlify.app/
 
 ## 📌 Features
 
